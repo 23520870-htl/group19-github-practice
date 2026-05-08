@@ -1,0 +1,72 @@
+{
+  "1001": {
+    "id": "1001",
+    "title": "Hoàn thành dự án Python",
+    "description": "Viết chương trình quản lý sinh viên",
+    "priority": "High",
+    "category": "công việc",
+    "completed": true,
+    "created_at": "2024-01-10 09:00:00",
+    "completed_at": "2024-01-15 18:30:00"
+  },
+  "1002": {
+    "id": "1002",
+    "title": "Ôn tập bài thi môn Toán",
+    "description": "Ôn lại các công thức đạo hàm và tích phân",
+    "priority": "High",
+    "category": "học tập",
+    "completed": false,
+    "created_at": "2024-01-12 14:20:00",
+    "completed_at": null
+  },
+  "1003": {
+    "id": "1003",
+    "title": "Mua sắm đồ cần thiết",
+    "description": "Mua sách, bút, vở",
+    "priority": "Medium",
+    "category": "mua sắm",
+    "completed": false,
+    "created_at": "2024-01-13 10:15:00",
+    "completed_at": null
+  },
+  "1004": {
+    "id": "1004",
+    "title": "Gặp bạn uống cà phê",
+    "description": "Gặp Hoa tại quán Hoa Café lúc 3 chiều",
+    "priority": "Low",
+    "category": "công việc",
+    "completed": true,
+    "created_at": "2024-01-14 08:00:00",
+    "completed_at": "2024-01-14 15:30:00"
+  },
+  "1005": {
+    "id": "1005",
+    "title": "Đặt vé máy bay",
+    "description": "Đặt vé bay về quê dự tết",
+    "priority": "High",
+    "category": "công việc",
+    "completed": false,
+    "created_at": "2024-01-15 11:00:00",
+    "completed_at": null
+  },
+  "1006": {
+    "id": "1006",
+    "title": "Làm bài tập tiếng Anh",
+    "description": "Làm bài tập unit 5-6 sách tiếng Anh 10",
+    "priority": "Medium",
+    "category": "học tập",
+    "completed": false,
+    "created_at": "2024-01-15 16:45:00",
+    "completed_at": null
+  },
+  "1007": {
+    "id": "1007",
+    "title": "Rửa xe",
+    "description": "Rửa sạch xe và kiểm tra bảo dưỡng",
+    "priority": "Low",
+    "category": "công việc",
+    "completed": false,
+    "created_at": "2024-01-15 17:00:00",
+    "completed_at": null
+  }
+}
