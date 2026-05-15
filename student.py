@@ -15,3 +15,10 @@ def show_students():
             print(f"Tên: {student['name']} - MSSV: {student['id']}")
 
 # File quan ly sinh vien
+
+def search_student(student_id):
+    # Hàm tìm kiếm sinh viên theo MSSV
+    for student in students:
+        if student['id'] == student_id:
+            return student
+    return None
