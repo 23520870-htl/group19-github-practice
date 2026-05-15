@@ -1,5 +1,5 @@
 students = []
-
+# Ham them sinh vien moi
 def add_student(name, student_id):
     student = {
         "name": name,
@@ -13,3 +13,5 @@ def show_students():
     else:
         for student in students:
             print(f"Tên: {student['name']} - MSSV: {student['id']}")
+
+# File quan ly sinh vien
